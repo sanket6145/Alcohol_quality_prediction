@@ -5,4 +5,5 @@ scikit-learn
 joblib
 matplotlib
 torch==2.12.1
+reportlab==4.4.3
 
